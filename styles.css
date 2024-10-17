@@ -1,3 +1,14 @@
-h1 {
-    color: red;
+.btn {
+    border: 1px solid #1f1e1e;
+    background-color: transparent;
+    color: #1f1e1e;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 21.79px;
+    text-align: center;
+}
+.btn--red {
+    border-color: #bc3324;
+    background-color: #bc3324;
+    color: #ffffff;
 }
