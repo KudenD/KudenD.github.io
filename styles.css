@@ -96,7 +96,7 @@ body {
 }
 
 .btn:hover {
-    color: #FFFF;
+    color: #FFFFFF;
     background-color: #1F1E1E;
 }
 
@@ -104,3 +104,28 @@ body {
     flex: 1 0 auto;
     background-color: aquamarine;
 }
+
+.section-title {
+    box-sizing: border-box;
+    display: flex;
+    width: 100%;
+    max-width: 624px;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    max-width: 624px;
+    min-height: 62px;
+    margin: 0 auto 150px;
+    padding: 8px 45px;
+    background-color: #1F1E1E;
+    color: #FFFFFF;
+    font-family: "Lora", serif;
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 1.277;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+
